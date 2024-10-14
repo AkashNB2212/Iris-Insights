@@ -17,8 +17,19 @@ The objective of this analysis is to:
 
 The Iris dataset consists of 150 observations, with five features:
 
-Sepal Length (cm)
-Sepal Width (cm)
-Petal Length (cm)
-Petal Width (cm)
-Species – a categorical variable with three classes: Setosa, Versicolor, Virginica.
+* Sepal Length (cm)
+* Sepal Width (cm)
+* Petal Length (cm)
+* Petal Width (cm)
+* Species – a categorical variable with three classes: Setosa, Versicolor, Virginica.
+
+
+## Project Objectives
+
+* Conduct descriptive statistics and summarize the dataset.
+* Visualize data to identify patterns and relationships between the features.
+* Analyze the distribution of features and detect any anomalies or outliers.
+* Determine correlations among variables.
+* Suggest which features are most suitable for classifying the species.
+
+
